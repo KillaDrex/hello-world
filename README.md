@@ -1,2 +1,5 @@
 # hello-world
-The repository from the guide.
+
+Hello,
+
+This is Andre.
